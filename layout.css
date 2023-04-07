@@ -1,0 +1,97 @@
+.LinkCl
+{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 300px;
+    margin-bottom: 15px;
+    font-size: large;
+}
+
+
+.linkcl
+{
+    margin-right: 150px;
+}
+
+.SBox
+{
+    display: inline-block;
+    border: 2px  solid black;
+    width: 350px;
+    height: 270px;
+    padding-left: 20px;
+    margin:20px;
+
+}
+
+.FPage{
+    display: flex;
+    flex-wrap:  wrap;
+    align-items: center;
+    justify-content: center;
+
+
+    width: 1250px;
+    height: 500px;
+    border: 2px  solid black;
+}
+
+.pic{
+    height: 40px;
+    width: 500px;
+    align-self: center;
+    align-content: center;
+}
+
+.outside{
+
+    display:flex;
+    justify-content: center;
+    /*
+    align-items: center;
+    align-content: center;*/
+    width: 1250px;
+
+
+    /*
+    width: 400px;
+    height: 600px;*/
+}
+
+.mkcenter{
+
+    display:flex;
+    justify-content: center;
+    width: 1250px;
+
+}
+
+.pg4out{
+
+    padding-top: 100px;
+    display: grid;
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    /*grid-template-columns: repeat(3, 1fr);
+    gap: 100px;
+    grid-auto-rows: 50px;*/
+}
+
+.aa{
+    display:flex;
+    width: 500px;
+    height:500px;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.aaa{
+    width: 350px;
+   /* height: 350px;*/
+    padding: auto;
+}
